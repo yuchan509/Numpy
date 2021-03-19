@@ -1,2 +1,2 @@
-# numpy
-numpy. Series
+# Numpy
+numpy
